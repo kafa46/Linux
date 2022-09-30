@@ -7,7 +7,8 @@
 |주제|YouTube 링크|강의 슬라이드|
 |:--|:--|:--|
 |Computer File System|[click](https://youtu.be/AxVMo1dp25M)|[pdf 바로가기](/01_Computer_File_system/computer_file_systems.pdf)|
-|inode - 시작부터 끝까지|[click](https://youtu.be/_itDfNvm09k)|[pdf 바로가기](/02_i-node_details/02_i-node%20tutorials.pdf)|
+|inode가 도대체 뭔가요?<br>(inode의 모든것 - 시작과 끝)|[click](https://youtu.be/_itDfNvm09k)|[pdf 바로가기](/02_i-node_details/02_i-node%20tutorials.pdf)|
+|도대체 "소프트 링크"와 "하드 링크"가 뭔가요?<br>(Deep dive into Soft and Hard Link)|[click](https://youtu.be/jeh37_NVm-0)|[pdf 바로가기](/03_Soft%20Link%20vs%20Hard%20Link/03_soft_vs_hard_link_slides.pdf)|
 
 ---
 
