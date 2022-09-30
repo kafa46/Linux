@@ -6,8 +6,8 @@
 
 |주제|YouTube 링크|강의 슬라이드|
 |:--|:--|:--|
-|Computer File System|[click](https://youtu.be/AxVMo1dp25M)|[pdf 바로가기](https://github.com/kafa46/Linux/blob/master/01_Computer_File_system/computer_file_systems.pdf)|
-|I-node |[click](https://youtu.be/_itDfNvm09k)|[pdf 바로가기](https://github.com/kafa46/Linux/blob/master/02_i-node_details/02_i-node%20tutorials.pdf)|
+|Computer File System|[click](https://youtu.be/AxVMo1dp25M)|[pdf 바로가기](/01_Computer_File_system/computer_file_systems.pdf)|
+|inode - 시작부터 끝까지|[click](https://youtu.be/_itDfNvm09k)|[pdf 바로가기](/02_i-node_details/02_i-node%20tutorials.pdf)|
 
 ---
 
