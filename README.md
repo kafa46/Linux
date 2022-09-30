@@ -17,7 +17,7 @@
 |Question|Link|
 |:---|:---|
 |What is the purpose of creating a symbolic link between files?|[click](https://stackoverflow.com/questions/58314491/what-is-the-purpose-of-creating-a-symbolic-link-between-files)|
-|||
+
 
 ### YouTube
 |Title|Link|Creater|Date|
@@ -27,14 +27,12 @@
 |Understanding Linux and UNIX inodes and file metadata|[click](https://youtu.be/_6VJ8WfWI4k)|theurbanpenguin|2013.5.19.|
 |File System I-Node|[click](https://youtu.be/uX4k8stjg4I)|Tutorials Point (India) Ltd.|2018.1.19.|
 |UNIX inode, i-node 구조설명, 기술사 과정|[click](https://youtu.be/YMNPmJD81N4)|그리타GRITA|2020.8.31.|
-|||||
 
 ### English Blogs
 |Title|Link|Source|
 |:---|:---|:---|
 |Inode in Operating System|[click](https://www.geeksforgeeks.org/inode-in-operating-system/)|geeksforgeeks|
 |Blocks, block devices and block sizes|[click](http://www.linuxintro.org/wiki/Blocks,_block_devices_and_block_sizes)|Linux Intro|
-||||
 
 ### Korean Blogs
 |Title|Link|Remark|
