@@ -4,5 +4,5 @@
 02_i-node_details/*.pptx
 02_i-node_details/*.mp4
 
-03_Soft Link vs Hard Link/*.pptx
-03_Soft Link vs Hard Link/*.mp4
+03_Soft Link vs Hard Link
+!03_Soft Link vs Hard Link/*.pdf
